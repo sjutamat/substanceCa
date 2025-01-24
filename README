@@ -1,0 +1,82 @@
+**Toxicity Trends Analysis Project**
+Welcome to the Toxicity Trends Analysis Project repository! This project explores trends in opioid and
+stimulant toxicity deaths in Canada from 2018 to 2024 using Python, SQL, and public health data. Here, 
+you'll find all the code, datasets, and insights behind the analysis. If you're curious about the technical 
+details or want to build upon this work, you've come to the right place!
+
+**Project Overview**
+
+This project aims to uncover meaningful insights from public health data Canada by:
+
+1. Analyzing trends in stimulant- and opioid-related deaths.
+
+2. Comparing substances like methamphetamine, cocaine, and fentanyl.
+
+3. Highlighting disparities and changes over time to inform discussions and solutions.
+
+The dataset is sourced from the Public Health Agency of Canada and is publicly available on [Open.Canada.ca](https://open.canada.ca/data/en/dataset/1092497d-6c72-4e66-930b-9d6337e64af5).
+
+**Repository Structure**
+
+Here's what you'll find in this repository:
+
+1. Code
+
+cleaning.ipynb: Handles data preprocessing and cleaning.
+
+eda.ipynb: Contains exploratory data analysis (EDA) and visualizations.
+
+2. SQL
+substance.sql: Contains the sql commands were using during the process.
+
+3. Data
+
+Dataset: Preprocessed and raw data files (with source attribution).
+
+4. Output
+
+Visualizations: Graphs comparing stimulant and opioid trends over time.
+
+5. Documentation
+
+README.md: This file.
+
+**How to Use This Repository**
+
+---Prerequisites---
+
+1. Install Python (3.7 or higher).
+
+2. Install required libraries by running:
+
+    ```python
+    pip install -r requirements.txt
+    ```
+
+3. (Optional) Set up a local database for SQL queries (MySQL or MSSQL).
+
+---Running the Code---
+
+1. Clone the repository:
+    ```python
+    git clone https://github.com/sjutamat/substanceCa.git
+    ```
+
+2. Open the Jupyter Notebooks (.ipynb files) to explore and execute the code.
+
+3. Start with cleaning.ipynb and proceed sequentially through the analysis.   
+
+---Explore the Visualizations---
+
+Check out the output folder for pre-generated graphs and visual summaries.
+
+Alternatively, run the eda.ipynb notebook to create them yourself.
+
+**License**
+
+This project is licensed under the MIT License.
+
+**Contact**
+
+Have questions, ideas, or feedback? Reach out to me on [LinkedIn](https://www.linkedin.com/in/jutamat-sangka/) or open an issue here on GitHub.
+
