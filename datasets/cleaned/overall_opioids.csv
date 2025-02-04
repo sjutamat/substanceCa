@@ -1,0 +1,638 @@
+,Unnamed: 0,Substance,Source,Specific_Measure,Type_Event,Region,PRUID,Time_Period,Year_Quarter,Aggregator,Disaggregator,Unit,Value,Country
+0,61,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,British Columbia,59,By year,2016,,,Number,807,Canada
+1,62,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,British Columbia,59,By year,2017,,,Number,1300,Canada
+2,63,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,British Columbia,59,By year,2018,,,Number,1379,Canada
+3,64,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,British Columbia,59,By year,2019,,,Number,1027,Canada
+4,65,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,British Columbia,59,By year,2020,,,Number,1798,Canada
+5,66,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,British Columbia,59,By year,2021,,,Number,2324,Canada
+6,67,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,British Columbia,59,By year,2022,,,Number,2412,Canada
+7,68,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,British Columbia,59,By year,2023,,,Number,2602,Canada
+8,69,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,British Columbia,59,By year,2024 (Jan to Jun),,,Number,1200,Canada
+9,113,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Alberta,48,By year,2016,,,Number,602,Canada
+10,114,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Alberta,48,By year,2017,,,Number,744,Canada
+11,115,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Alberta,48,By year,2018,,,Number,805,Canada
+12,116,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Alberta,48,By year,2019,,,Number,626,Canada
+13,117,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Alberta,48,By year,2020,,,Number,1191,Canada
+14,118,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Alberta,48,By year,2021,,,Number,1640,Canada
+15,119,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Alberta,48,By year,2022,,,Number,1524,Canada
+16,120,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Alberta,48,By year,2023,,,Number,1872,Canada
+17,121,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Alberta,48,By year,2024 (Jan to Jun),,,Number,622,Canada
+18,165,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Saskatchewan,47,By year,2016,,,Number,83,Canada
+19,166,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Saskatchewan,47,By year,2017,,,Number,85,Canada
+20,167,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Saskatchewan,47,By year,2018,,,Number,116,Canada
+21,168,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Saskatchewan,47,By year,2019,,,Number,115,Canada
+22,169,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Saskatchewan,47,By year,2020,,,Number,250,Canada
+23,170,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Saskatchewan,47,By year,2021,,,Number,327,Canada
+24,171,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Saskatchewan,47,By year,2022,,,Number,293,Canada
+25,172,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Saskatchewan,47,By year,2023,,,Number,316,Canada
+26,173,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Saskatchewan,47,By year,2024 (Jan to Jun),,,Number,98,Canada
+27,217,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Manitoba,46,By year,2016,,,Number,88,Canada
+28,218,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Manitoba,46,By year,2017,,,Number,106,Canada
+29,219,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Manitoba,46,By year,2018,,,Number,93,Canada
+30,220,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Manitoba,46,By year,2019,,,Number,62,Canada
+31,221,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Manitoba,46,By year,2020,,,Number,233,Canada
+32,222,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Manitoba,46,By year,2021,,,Number,286,Canada
+33,223,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Manitoba,46,By year,2022,,,Number,287,Canada
+34,224,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Manitoba,46,By year,2023,,,Number,330,Canada
+35,225,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Manitoba,46,By year,2024 (Jan to Jun),,,Number,198,Canada
+36,269,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Ontario,35,By year,2016,,,Number,867,Canada
+37,270,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Ontario,35,By year,2017,,,Number,1265,Canada
+38,271,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Ontario,35,By year,2018,,,Number,1511,Canada
+39,272,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Ontario,35,By year,2019,,,Number,1560,Canada
+40,273,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Ontario,35,By year,2020,,,Number,2464,Canada
+41,274,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Ontario,35,By year,2021,,,Number,2861,Canada
+42,275,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Ontario,35,By year,2022,,,Number,2534,Canada
+43,276,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Ontario,35,By year,2023,,,Number,2647,Canada
+44,277,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Ontario,35,By year,2024 (Jan to Jun),,,Number,1258,Canada
+45,321,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Quebec,24,By year,2016,,,Number,263,Canada
+46,322,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Quebec,24,By year,2017,,,Number,280,Canada
+47,323,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Quebec,24,By year,2018,,,Number,211,Canada
+48,324,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Quebec,24,By year,2019,,,Number,213,Canada
+49,325,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Quebec,24,By year,2020,,,Number,321,Canada
+50,326,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Quebec,24,By year,2021,,,Number,293,Canada
+51,327,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Quebec,24,By year,2022,,,Number,540,Canada
+52,328,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Quebec,24,By year,2023,,,Number,536,Canada
+53,329,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Quebec,24,By year,2024 (Jan to Jun),,,Number,319,Canada
+54,373,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,New Brunswick,13,By year,2016,,,Number,34,Canada
+55,374,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,New Brunswick,13,By year,2017,,,Number,38,Canada
+56,375,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,New Brunswick,13,By year,2018,,,Number,30,Canada
+57,376,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,New Brunswick,13,By year,2019,,,Number,35,Canada
+58,377,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,New Brunswick,13,By year,2020,,,Number,45,Canada
+59,378,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,New Brunswick,13,By year,2021,,,Number,47,Canada
+60,379,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,New Brunswick,13,By year,2022,,,Number,77,Canada
+61,380,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,New Brunswick,13,By year,2023,,,Number,98,Canada
+62,381,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,New Brunswick,13,By year,2024 (Jan to Jun),,,Number,19,Canada
+63,425,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nova Scotia,12,By year,2016,,,Number,53,Canada
+64,426,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nova Scotia,12,By year,2017,,,Number,64,Canada
+65,427,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nova Scotia,12,By year,2018,,,Number,55,Canada
+66,428,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nova Scotia,12,By year,2019,,,Number,56,Canada
+67,429,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nova Scotia,12,By year,2020,,,Number,49,Canada
+68,430,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nova Scotia,12,By year,2021,,,Number,40,Canada
+69,431,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nova Scotia,12,By year,2022,,,Number,62,Canada
+70,432,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nova Scotia,12,By year,2023,,,Number,73,Canada
+71,433,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nova Scotia,12,By year,2024 (Jan to Jun),,,Number,38,Canada
+72,477,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Prince Edward Island,11,By year,2016,,,Number,5,Canada
+73,478,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Prince Edward Island,11,By year,2017,,,Number,5,Canada
+74,479,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Prince Edward Island,11,By year,2018,,,Number,8,Canada
+75,480,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Prince Edward Island,11,By year,2019,,,Number,5,Canada
+76,481,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Prince Edward Island,11,By year,2020,,,Number,8,Canada
+77,482,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Prince Edward Island,11,By year,2021,,,Number,12,Canada
+78,483,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Prince Edward Island,11,By year,2022,,,Number,6,Canada
+79,484,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Prince Edward Island,11,By year,2023,,,Number,7,Canada
+80,485,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Prince Edward Island,11,By year,2024 (Jan to Jun),,,Number,5,Canada
+81,529,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2016,,,Number,18,Canada
+82,530,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2017,,,Number,33,Canada
+83,531,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2018,,,Number,12,Canada
+84,532,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2019,,,Number,18,Canada
+85,533,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2020,,,Number,24,Canada
+86,534,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2021,,,Number,27,Canada
+87,535,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2022,,,Number,30,Canada
+88,536,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2023,,,Number,37,Canada
+89,537,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2024 (Jan to Jun),,,Number,23,Canada
+90,581,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Yukon,60,By year,2016,,,Number,7,Canada
+91,582,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Yukon,60,By year,2017,,,Number,7,Canada
+92,583,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Yukon,60,By year,2018,,,Number,5,Canada
+93,584,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Yukon,60,By year,2019,,,Number,4,Canada
+94,585,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Yukon,60,By year,2020,,,Number,10,Canada
+95,586,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Yukon,60,By year,2021,,,Number,23,Canada
+96,587,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Yukon,60,By year,2022,,,Number,19,Canada
+97,588,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Yukon,60,By year,2023,,,Number,17,Canada
+98,589,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Yukon,60,By year,2024 (Jan to Jun),,,Number,5,Canada
+99,633,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Northwest Territories,61,By year,2016,,,Number,5,Canada
+100,634,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Northwest Territories,61,By year,2017,,,Number,1,Canada
+101,635,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Northwest Territories,61,By year,2018,,,Number,2,Canada
+102,636,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Northwest Territories,61,By year,2019,,,Number,1,Canada
+103,637,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Northwest Territories,61,By year,2020,,,Number,3,Canada
+104,638,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Northwest Territories,61,By year,2021,,,Number,4,Canada
+105,639,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Northwest Territories,61,By year,2022,,,Number,7,Canada
+106,640,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Northwest Territories,61,By year,2023,,,Number,3,Canada
+107,641,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Northwest Territories,61,By year,2024 (Jan to Jun),,,Number,2,Canada
+108,685,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nunavut,62,By year,2016,,,Number,0,Canada
+109,686,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nunavut,62,By year,2017,,,Number,0,Canada
+110,687,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nunavut,62,By year,2018,,,Number,0,Canada
+111,688,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nunavut,62,By year,2019,,,Number,Suppr.,Canada
+112,689,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nunavut,62,By year,2020,,,Number,Suppr.,Canada
+113,690,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nunavut,62,By year,2021,,,Number,Suppr.,Canada
+114,691,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nunavut,62,By year,2022,,,Number,Suppr.,Canada
+115,692,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nunavut,62,By year,2023,,,Number,0,Canada
+116,693,Opioids,Deaths,Overall numbers,Total apparent opioid toxicity deaths,Nunavut,62,By year,2024 (Jan to Jun),,,Number,,Canada
+117,789,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,British Columbia,59,By year,2016,,,Number,791,Canada
+118,790,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,British Columbia,59,By year,2017,,,Number,1277,Canada
+119,791,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,British Columbia,59,By year,2018,,,Number,1365,Canada
+120,792,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,British Columbia,59,By year,2019,,,Number,980,Canada
+121,793,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,British Columbia,59,By year,2020,,,Number,1768,Canada
+122,794,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,British Columbia,59,By year,2021,,,Number,2281,Canada
+123,795,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,British Columbia,59,By year,2022,,,Number,2368,Canada
+124,796,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,British Columbia,59,By year,2023,,,Number,2558,Canada
+125,797,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,British Columbia,59,By year,2024 (Jan to Jun),,,Number,1181,Canada
+126,841,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Alberta,48,By year,2016,,,Number,547,Canada
+127,842,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Alberta,48,By year,2017,,,Number,683,Canada
+128,843,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Alberta,48,By year,2018,,,Number,799,Canada
+129,844,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Alberta,48,By year,2019,,,Number,619,Canada
+130,845,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Alberta,48,By year,2020,,,Number,1172,Canada
+131,846,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Alberta,48,By year,2021,,,Number,1628,Canada
+132,847,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Alberta,48,By year,2022,,,Number,1511,Canada
+133,848,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Alberta,48,By year,2023,,,Number,1854,Canada
+134,849,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Alberta,48,By year,2024 (Jan to Jun),,,Number,618,Canada
+135,893,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Saskatchewan,47,By year,2016,,,Number,76,Canada
+136,894,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Saskatchewan,47,By year,2017,,,Number,74,Canada
+137,895,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Saskatchewan,47,By year,2018,,,Number,105,Canada
+138,896,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Saskatchewan,47,By year,2019,,,Number,107,Canada
+139,897,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Saskatchewan,47,By year,2020,,,Number,237,Canada
+140,898,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Saskatchewan,47,By year,2021,,,Number,316,Canada
+141,899,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Saskatchewan,47,By year,2022,,,Number,281,Canada
+142,900,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Saskatchewan,47,By year,2023,,,Number,311,Canada
+143,901,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Saskatchewan,47,By year,2024 (Jan to Jun),,,Number,97,Canada
+144,945,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Manitoba,46,By year,2016,,,Number,61,Canada
+145,946,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Manitoba,46,By year,2017,,,Number,87,Canada
+146,947,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Manitoba,46,By year,2018,,,Number,78,Canada
+147,948,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Manitoba,46,By year,2019,,,Number,54,Canada
+148,949,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Manitoba,46,By year,2020,,,Number,225,Canada
+149,950,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Manitoba,46,By year,2021,,,Number,269,Canada
+150,951,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Manitoba,46,By year,2022,,,Number,248,Canada
+151,952,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Manitoba,46,By year,2023,,,Number,229,Canada
+152,953,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Manitoba,46,By year,2024 (Jan to Jun),,,Number,68,Canada
+153,997,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Ontario,35,By year,2016,,,Number,726,Canada
+154,998,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Ontario,35,By year,2017,,,Number,1127,Canada
+155,999,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Ontario,35,By year,2018,,,Number,1342,Canada
+156,1000,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Ontario,35,By year,2019,,,Number,1434,Canada
+157,1001,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Ontario,35,By year,2020,,,Number,2331,Canada
+158,1002,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Ontario,35,By year,2021,,,Number,2721,Canada
+159,1003,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Ontario,35,By year,2022,,,Number,2373,Canada
+160,1004,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Ontario,35,By year,2023,,,Number,2523,Canada
+161,1005,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Ontario,35,By year,2024 (Jan to Jun),,,Number,1204,Canada
+162,1049,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Quebec,24,By year,2016,,,Number,176,Canada
+163,1050,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Quebec,24,By year,2017,,,Number,185,Canada
+164,1051,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Quebec,24,By year,2018,,,Number,149,Canada
+165,1052,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Quebec,24,By year,2019,,,Number,162,Canada
+166,1053,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Quebec,24,By year,2020,,,Number,231,Canada
+167,1054,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Quebec,24,By year,2021,,,Number,214,Canada
+168,1055,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Quebec,24,By year,2022,,,Number,540,Canada
+169,1056,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Quebec,24,By year,2023,,,Number,536,Canada
+170,1057,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Quebec,24,By year,2024 (Jan to Jun),,,Number,319,Canada
+171,1101,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,New Brunswick,13,By year,2016,,,Number,27,Canada
+172,1102,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,New Brunswick,13,By year,2017,,,Number,32,Canada
+173,1103,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,New Brunswick,13,By year,2018,,,Number,23,Canada
+174,1104,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,New Brunswick,13,By year,2019,,,Number,27,Canada
+175,1105,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,New Brunswick,13,By year,2020,,,Number,38,Canada
+176,1106,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,New Brunswick,13,By year,2021,,,Number,42,Canada
+177,1107,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,New Brunswick,13,By year,2022,,,Number,68,Canada
+178,1108,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,New Brunswick,13,By year,2023,,,Number,95,Canada
+179,1109,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,New Brunswick,13,By year,2024 (Jan to Jun),,,Number,19,Canada
+180,1153,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nova Scotia,12,By year,2016,,,Number,40,Canada
+181,1154,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nova Scotia,12,By year,2017,,,Number,58,Canada
+182,1155,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nova Scotia,12,By year,2018,,,Number,50,Canada
+183,1156,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nova Scotia,12,By year,2019,,,Number,43,Canada
+184,1157,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nova Scotia,12,By year,2020,,,Number,41,Canada
+185,1158,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nova Scotia,12,By year,2021,,,Number,33,Canada
+186,1159,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nova Scotia,12,By year,2022,,,Number,47,Canada
+187,1160,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nova Scotia,12,By year,2023,,,Number,65,Canada
+188,1161,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nova Scotia,12,By year,2024 (Jan to Jun),,,Number,34,Canada
+189,1205,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Prince Edward Island,11,By year,2016,,,Number,5,Canada
+190,1206,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Prince Edward Island,11,By year,2017,,,Number,5,Canada
+191,1207,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Prince Edward Island,11,By year,2018,,,Number,8,Canada
+192,1208,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Prince Edward Island,11,By year,2019,,,Number,5,Canada
+193,1209,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Prince Edward Island,11,By year,2020,,,Number,8,Canada
+194,1210,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Prince Edward Island,11,By year,2021,,,Number,12,Canada
+195,1211,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Prince Edward Island,11,By year,2022,,,Number,6,Canada
+196,1212,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Prince Edward Island,11,By year,2023,,,Number,7,Canada
+197,1213,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Prince Edward Island,11,By year,2024 (Jan to Jun),,,Number,5,Canada
+198,1257,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2016,,,Number,13,Canada
+199,1258,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2017,,,Number,23,Canada
+200,1259,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2018,,,Number,10,Canada
+201,1260,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2019,,,Number,13,Canada
+202,1261,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2020,,,Number,19,Canada
+203,1262,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2021,,,Number,24,Canada
+204,1263,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2022,,,Number,23,Canada
+205,1264,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2023,,,Number,35,Canada
+206,1265,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Newfoundland and Labrador,10,By year,2024 (Jan to Jun),,,Number,19,Canada
+207,1309,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Yukon,60,By year,2016,,,Number,5,Canada
+208,1310,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Yukon,60,By year,2017,,,Number,6,Canada
+209,1311,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Yukon,60,By year,2018,,,Number,4,Canada
+210,1312,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Yukon,60,By year,2019,,,Number,4,Canada
+211,1313,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Yukon,60,By year,2020,,,Number,10,Canada
+212,1314,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Yukon,60,By year,2021,,,Number,23,Canada
+213,1315,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Yukon,60,By year,2022,,,Number,19,Canada
+214,1316,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Yukon,60,By year,2023,,,Number,17,Canada
+215,1317,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Yukon,60,By year,2024 (Jan to Jun),,,Number,5,Canada
+216,1361,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Northwest Territories,61,By year,2016,,,Number,4,Canada
+217,1362,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Northwest Territories,61,By year,2017,,,Number,1,Canada
+218,1363,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Northwest Territories,61,By year,2018,,,Number,2,Canada
+219,1364,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Northwest Territories,61,By year,2019,,,Number,0,Canada
+220,1365,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Northwest Territories,61,By year,2020,,,Number,3,Canada
+221,1366,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Northwest Territories,61,By year,2021,,,Number,4,Canada
+222,1367,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Northwest Territories,61,By year,2022,,,Number,7,Canada
+223,1368,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Northwest Territories,61,By year,2023,,,Number,2,Canada
+224,1369,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Northwest Territories,61,By year,2024 (Jan to Jun),,,Number,2,Canada
+225,1413,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nunavut,62,By year,2016,,,Number,0,Canada
+226,1414,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nunavut,62,By year,2017,,,Number,0,Canada
+227,1415,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nunavut,62,By year,2018,,,Number,0,Canada
+228,1416,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nunavut,62,By year,2019,,,Number,0,Canada
+229,1417,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nunavut,62,By year,2020,,,Number,0,Canada
+230,1418,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nunavut,62,By year,2021,,,Number,0,Canada
+231,1419,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nunavut,62,By year,2022,,,Number,Suppr.,Canada
+232,1420,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nunavut,62,By year,2023,,,Number,0,Canada
+233,1421,Opioids,Deaths,Overall numbers,Accidental apparent opioid toxicity deaths,Nunavut,62,By year,2024 (Jan to Jun),,,Number,,Canada
+6643,9383,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,British Columbia,59,By year,2016,,,Number,1156,Canada
+6644,9384,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,British Columbia,59,By year,2017,,,Number,1407,Canada
+6645,9385,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,British Columbia,59,By year,2018,,,Number,1418,Canada
+6646,9386,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,British Columbia,59,By year,2019,,,Number,1196,Canada
+6647,9387,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,British Columbia,59,By year,2020,,,Number,1586,Canada
+6648,9388,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,British Columbia,59,By year,2021,,,Number,1954,Canada
+6649,9389,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,British Columbia,59,By year,2022,,,Number,1868,Canada
+6650,9390,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,British Columbia,59,By year,2023,,,Number,2280,Canada
+6651,9391,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,British Columbia,59,By year,2024 (Jan to Jun),,,Number,973,Canada
+6652,9435,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Alberta,48,By year,2016,,,Number,930,Canada
+6653,9436,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Alberta,48,By year,2017,,,Number,947,Canada
+6654,9437,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Alberta,48,By year,2018,,,Number,922,Canada
+6655,9438,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Alberta,48,By year,2019,,,Number,709,Canada
+6656,9439,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Alberta,48,By year,2020,,,Number,890,Canada
+6657,9440,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Alberta,48,By year,2021,,,Number,1144,Canada
+6658,9441,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Alberta,48,By year,2022,,,Number,893,Canada
+6659,9442,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Alberta,48,By year,2023,,,Number,1227,Canada
+6660,9443,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Alberta,48,By year,2024 (Jan to Jun),,,Number,439,Canada
+6661,9487,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2016,,,Number,264,Canada
+6662,9488,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2017,,,Number,244,Canada
+6663,9489,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2018,,,Number,229,Canada
+6664,9490,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2019,,,Number,264,Canada
+6665,9491,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2020,,,Number,315,Canada
+6666,9492,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2021,,,Number,321,Canada
+6667,9493,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2022,,,Number,239,Canada
+6668,9494,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2023,,,Number,277,Canada
+6669,9495,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2024 (Jan to Jun),,,Number,128,Canada
+6670,9539,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Manitoba,46,By year,2016,,,Number,123,Canada
+6671,9540,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Manitoba,46,By year,2017,,,Number,161,Canada
+6672,9541,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Manitoba,46,By year,2018,,,Number,108,Canada
+6673,9542,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Manitoba,46,By year,2019,,,Number,84,Canada
+6674,9543,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Manitoba,46,By year,2020,,,Number,126,Canada
+6675,9544,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Manitoba,46,By year,2021,,,Number,122,Canada
+6676,9545,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Manitoba,46,By year,2022,,,Number,118,Canada
+6677,9546,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Manitoba,46,By year,2023,,,Number,154,Canada
+6678,9547,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Manitoba,46,By year,2024 (Jan to Jun),,,Number,59,Canada
+6679,9591,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Ontario,35,By year,2016,,,Number,1875,Canada
+6680,9592,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Ontario,35,By year,2017,,,Number,2124,Canada
+6681,9593,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Ontario,35,By year,2018,,,Number,2095,Canada
+6682,9594,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Ontario,35,By year,2019,,,Number,1981,Canada
+6683,9595,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Ontario,35,By year,2020,,,Number,2044,Canada
+6684,9596,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Ontario,35,By year,2021,,,Number,2446,Canada
+6685,9597,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Ontario,35,By year,2022,,,Number,2023,Canada
+6686,9598,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Ontario,35,By year,2023,,,Number,2212,Canada
+6687,9599,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Ontario,35,By year,2024 (Jan to Jun),,,Number,1107,Canada
+6688,9643,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Quebec,24,By year,2016,,,Number,,Canada
+6689,9644,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Quebec,24,By year,2017,,,Number,,Canada
+6690,9645,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Quebec,24,By year,2018,,,Number,,Canada
+6691,9646,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Quebec,24,By year,2019,,,Number,,Canada
+6692,9647,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Quebec,24,By year,2020,,,Number,,Canada
+6693,9648,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Quebec,24,By year,2021,,,Number,,Canada
+6694,9649,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Quebec,24,By year,2022,,,Number,,Canada
+6695,9650,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Quebec,24,By year,2023,,,Number,,Canada
+6696,9651,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Quebec,24,By year,2024 (Jan to Jun),,,Number,,Canada
+6697,9695,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,New Brunswick,13,By year,2016,,,Number,129,Canada
+6698,9696,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,New Brunswick,13,By year,2017,,,Number,101,Canada
+6699,9697,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,New Brunswick,13,By year,2018,,,Number,87,Canada
+6700,9698,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,New Brunswick,13,By year,2019,,,Number,104,Canada
+6701,9699,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,New Brunswick,13,By year,2020,,,Number,105,Canada
+6702,9700,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,New Brunswick,13,By year,2021,,,Number,98,Canada
+6703,9701,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,New Brunswick,13,By year,2022,,,Number,119,Canada
+6704,9702,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,New Brunswick,13,By year,2023,,,Number,103,Canada
+6705,9703,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,New Brunswick,13,By year,2024 (Jan to Jun),,,Number,49,Canada
+6706,9747,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2016,,,Number,101,Canada
+6707,9748,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2017,,,Number,83,Canada
+6708,9749,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2018,,,Number,80,Canada
+6709,9750,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2019,,,Number,79,Canada
+6710,9751,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2020,,,Number,72,Canada
+6711,9752,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2021,,,Number,71,Canada
+6712,9753,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2022,,,Number,75,Canada
+6713,9754,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2023,,,Number,90,Canada
+6714,9755,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2024 (Jan to Jun),,,Number,39,Canada
+6715,9799,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2016,,,Number,22,Canada
+6716,9800,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2017,,,Number,16,Canada
+6717,9801,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2018,,,Number,20,Canada
+6718,9802,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2019,,,Number,24,Canada
+6719,9803,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2020,,,Number,17,Canada
+6720,9804,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2021,,,Number,17,Canada
+6721,9805,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2022,,,Number,15,Canada
+6722,9806,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2023,,,Number,23,Canada
+6723,9807,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2024 (Jan to Jun),,,Number,8,Canada
+6724,9851,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2016,,,Number,56,Canada
+6725,9852,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2017,,,Number,90,Canada
+6726,9853,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2018,,,Number,67,Canada
+6727,9854,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2019,,,Number,52,Canada
+6728,9855,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2020,,,Number,64,Canada
+6729,9856,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2021,,,Number,68,Canada
+6730,9857,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2022,,,Number,57,Canada
+6731,9858,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2023,,,Number,64,Canada
+6732,9859,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2024 (Jan to Jun),,,Number,31,Canada
+6733,9903,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Territories,63,By year,2016,,,Number,31,Canada
+6734,9904,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Territories,63,By year,2017,,,Number,30,Canada
+6735,9905,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Territories,63,By year,2018,,,Number,26,Canada
+6736,9906,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Territories,63,By year,2019,,,Number,21,Canada
+6737,9907,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Territories,63,By year,2020,,,Number,21,Canada
+6738,9908,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Territories,63,By year,2021,,,Number,31,Canada
+6739,9909,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Territories,63,By year,2022,,,Number,24,Canada
+6740,9910,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Territories,63,By year,2023,,,Number,32,Canada
+6741,9911,Opioids,Hospitalizations,Overall numbers,Total opioid-related poisoning hospitalizations,Territories,63,By year,2024 (Jan to Jun),,,Number,13,Canada
+6742,10007,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,British Columbia,59,By year,2016,,,Number,663,Canada
+6743,10008,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,British Columbia,59,By year,2017,,,Number,886,Canada
+6744,10009,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,British Columbia,59,By year,2018,,,Number,988,Canada
+6745,10010,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,British Columbia,59,By year,2019,,,Number,768,Canada
+6746,10011,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,British Columbia,59,By year,2020,,,Number,1121,Canada
+6747,10012,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,British Columbia,59,By year,2021,,,Number,1427,Canada
+6748,10013,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,British Columbia,59,By year,2022,,,Number,1401,Canada
+6749,10014,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,British Columbia,59,By year,2023,,,Number,1746,Canada
+6750,10015,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,British Columbia,59,By year,2024 (Jan to Jun),,,Number,746,Canada
+6751,10059,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Alberta,48,By year,2016,,,Number,558,Canada
+6752,10060,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Alberta,48,By year,2017,,,Number,624,Canada
+6753,10061,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Alberta,48,By year,2018,,,Number,636,Canada
+6754,10062,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Alberta,48,By year,2019,,,Number,490,Canada
+6755,10063,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Alberta,48,By year,2020,,,Number,650,Canada
+6756,10064,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Alberta,48,By year,2021,,,Number,923,Canada
+6757,10065,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Alberta,48,By year,2022,,,Number,679,Canada
+6758,10066,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Alberta,48,By year,2023,,,Number,1008,Canada
+6759,10067,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Alberta,48,By year,2024 (Jan to Jun),,,Number,331,Canada
+6760,10111,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2016,,,Number,163,Canada
+6761,10112,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2017,,,Number,146,Canada
+6762,10113,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2018,,,Number,139,Canada
+6763,10114,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2019,,,Number,145,Canada
+6764,10115,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2020,,,Number,216,Canada
+6765,10116,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2021,,,Number,227,Canada
+6766,10117,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2022,,,Number,179,Canada
+6767,10118,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2023,,,Number,207,Canada
+6768,10119,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Saskatchewan,47,By year,2024 (Jan to Jun),,,Number,99,Canada
+6769,10163,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Manitoba,46,By year,2016,,,Number,67,Canada
+6770,10164,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Manitoba,46,By year,2017,,,Number,81,Canada
+6771,10165,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Manitoba,46,By year,2018,,,Number,61,Canada
+6772,10166,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Manitoba,46,By year,2019,,,Number,46,Canada
+6773,10167,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Manitoba,46,By year,2020,,,Number,66,Canada
+6774,10168,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Manitoba,46,By year,2021,,,Number,81,Canada
+6775,10169,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Manitoba,46,By year,2022,,,Number,77,Canada
+6776,10170,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Manitoba,46,By year,2023,,,Number,99,Canada
+6777,10171,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Manitoba,46,By year,2024 (Jan to Jun),,,Number,46,Canada
+6778,10215,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Ontario,35,By year,2016,,,Number,1014,Canada
+6779,10216,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Ontario,35,By year,2017,,,Number,1203,Canada
+6780,10217,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Ontario,35,By year,2018,,,Number,1277,Canada
+6781,10218,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Ontario,35,By year,2019,,,Number,1247,Canada
+6782,10219,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Ontario,35,By year,2020,,,Number,1388,Canada
+6783,10220,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Ontario,35,By year,2021,,,Number,1640,Canada
+6784,10221,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Ontario,35,By year,2022,,,Number,1335,Canada
+6785,10222,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Ontario,35,By year,2023,,,Number,1495,Canada
+6786,10223,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Ontario,35,By year,2024 (Jan to Jun),,,Number,759,Canada
+6787,10267,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Quebec,24,By year,2016,,,Number,,Canada
+6788,10268,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Quebec,24,By year,2017,,,Number,,Canada
+6789,10269,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Quebec,24,By year,2018,,,Number,,Canada
+6790,10270,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Quebec,24,By year,2019,,,Number,,Canada
+6791,10271,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Quebec,24,By year,2020,,,Number,,Canada
+6792,10272,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Quebec,24,By year,2021,,,Number,,Canada
+6793,10273,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Quebec,24,By year,2022,,,Number,,Canada
+6794,10274,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Quebec,24,By year,2023,,,Number,,Canada
+6795,10275,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Quebec,24,By year,2024 (Jan to Jun),,,Number,,Canada
+6796,10319,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,New Brunswick,13,By year,2016,,,Number,45,Canada
+6797,10320,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,New Brunswick,13,By year,2017,,,Number,21,Canada
+6798,10321,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,New Brunswick,13,By year,2018,,,Number,31,Canada
+6799,10322,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,New Brunswick,13,By year,2019,,,Number,38,Canada
+6800,10323,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,New Brunswick,13,By year,2020,,,Number,49,Canada
+6801,10324,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,New Brunswick,13,By year,2021,,,Number,51,Canada
+6802,10325,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,New Brunswick,13,By year,2022,,,Number,60,Canada
+6803,10326,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,New Brunswick,13,By year,2023,,,Number,54,Canada
+6804,10327,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,New Brunswick,13,By year,2024 (Jan to Jun),,,Number,22,Canada
+6805,10371,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2016,,,Number,53,Canada
+6806,10372,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2017,,,Number,31,Canada
+6807,10373,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2018,,,Number,39,Canada
+6808,10374,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2019,,,Number,34,Canada
+6809,10375,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2020,,,Number,39,Canada
+6810,10376,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2021,,,Number,36,Canada
+6811,10377,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2022,,,Number,30,Canada
+6812,10378,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2023,,,Number,44,Canada
+6813,10379,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Nova Scotia,12,By year,2024 (Jan to Jun),,,Number,20,Canada
+6814,10423,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2016,,,Number,11,Canada
+6815,10424,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2017,,,Number,7,Canada
+6816,10425,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2018,,,Number,10,Canada
+6817,10426,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2019,,,Number,13,Canada
+6818,10427,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2020,,,Number,10,Canada
+6819,10428,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2021,,,Number,9,Canada
+6820,10429,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2022,,,Number,9,Canada
+6821,10430,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2023,,,Number,13,Canada
+6822,10431,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Prince Edward Island,11,By year,2024 (Jan to Jun),,,Number,5,Canada
+6823,10475,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2016,,,Number,11,Canada
+6824,10476,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2017,,,Number,19,Canada
+6825,10477,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2018,,,Number,17,Canada
+6826,10478,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2019,,,Number,19,Canada
+6827,10479,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2020,,,Number,22,Canada
+6828,10480,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2021,,,Number,20,Canada
+6829,10481,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2022,,,Number,18,Canada
+6830,10482,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2023,,,Number,18,Canada
+6831,10483,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Newfoundland and Labrador,10,By year,2024 (Jan to Jun),,,Number,6,Canada
+6832,10527,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Territories,63,By year,2016,,,Number,11,Canada
+6833,10528,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Territories,63,By year,2017,,,Number,9,Canada
+6834,10529,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Territories,63,By year,2018,,,Number,15,Canada
+6835,10530,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Territories,63,By year,2019,,,Number,5,Canada
+6836,10531,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Territories,63,By year,2020,,,Number,11,Canada
+6837,10532,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Territories,63,By year,2021,,,Number,18,Canada
+6838,10533,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Territories,63,By year,2022,,,Number,13,Canada
+6839,10534,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Territories,63,By year,2023,,,Number,21,Canada
+6840,10535,Opioids,Hospitalizations,Overall numbers,Accidental opioid-related poisoning hospitalizations,Territories,63,By year,2024 (Jan to Jun),,,Number,8,Canada
+7710,12133,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,British Columbia,59,By year,2016,,,Number,3754,Canada
+7711,12134,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,British Columbia,59,By year,2017,,,Number,4345,Canada
+7712,12135,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,British Columbia,59,By year,2018,,,Number,3512,Canada
+7713,12136,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,British Columbia,59,By year,2019,,,Number,3460,Canada
+7714,12137,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,British Columbia,59,By year,2020,,,Number,4376,Canada
+7715,12138,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,British Columbia,59,By year,2021,,,Number,6528,Canada
+7716,12139,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,British Columbia,59,By year,2022,,,Number,5010,Canada
+7717,12140,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,British Columbia,59,By year,2023,,,Number,5975,Canada
+7718,12141,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,British Columbia,59,By year,2024 (Jan to Jun),,,Number,3149,Canada
+7719,12185,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Alberta,48,By year,2016,,,Number,3625,Canada
+7720,12186,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Alberta,48,By year,2017,,,Number,4553,Canada
+7721,12187,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Alberta,48,By year,2018,,,Number,4937,Canada
+7722,12188,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Alberta,48,By year,2019,,,Number,3537,Canada
+7723,12189,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Alberta,48,By year,2020,,,Number,4456,Canada
+7724,12190,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Alberta,48,By year,2021,,,Number,7193,Canada
+7725,12191,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Alberta,48,By year,2022,,,Number,5424,Canada
+7726,12192,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Alberta,48,By year,2023,,,Number,7016,Canada
+7727,12193,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Alberta,48,By year,2024 (Jan to Jun),,,Number,2255,Canada
+7728,12237,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Saskatchewan,47,By year,2016,,,Number,249,Canada
+7729,12238,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Saskatchewan,47,By year,2017,,,Number,381,Canada
+7730,12239,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Saskatchewan,47,By year,2018,,,Number,577,Canada
+7731,12240,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Saskatchewan,47,By year,2019,,,Number,674,Canada
+7732,12241,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Saskatchewan,47,By year,2020,,,Number,1198,Canada
+7733,12242,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Saskatchewan,47,By year,2021,,,Number,1631,Canada
+7734,12243,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Saskatchewan,47,By year,2022,,,Number,1481,Canada
+7735,12244,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Saskatchewan,47,By year,2023,,,Number,1833,Canada
+7736,12245,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Saskatchewan,47,By year,2024 (Jan to Jun),,,Number,926,Canada
+7737,12289,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Ontario,35,By year,2016,,,Number,4467,Canada
+7738,12290,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Ontario,35,By year,2017,,,Number,7832,Canada
+7739,12291,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Ontario,35,By year,2018,,,Number,9235,Canada
+7740,12292,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Ontario,35,By year,2019,,,Number,10568,Canada
+7741,12293,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Ontario,35,By year,2020,,,Number,12622,Canada
+7742,12294,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Ontario,35,By year,2021,,,Number,17175,Canada
+7743,12295,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Ontario,35,By year,2022,,,Number,12240,Canada
+7744,12296,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Ontario,35,By year,2023,,,Number,13559,Canada
+7745,12297,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Ontario,35,By year,2024 (Jan to Jun),,,Number,6867,Canada
+7746,12332,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Nova Scotia,12,By year,2016,,,Number,47,Canada
+7747,12333,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Nova Scotia,12,By year,2017,,,Number,37,Canada
+7748,12334,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Nova Scotia,12,By year,2018,,,Number,20,Canada
+7749,12335,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Nova Scotia,12,By year,2019,,,Number,16,Canada
+7750,12336,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Nova Scotia,12,By year,2020,,,Number,16,Canada
+7751,12337,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Nova Scotia,12,By year,2021,,,Number,23,Canada
+7752,12338,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Nova Scotia,12,By year,2022,,,Number,24,Canada
+7753,12339,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Nova Scotia,12,By year,2023,,,Number,31,Canada
+7754,12340,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Nova Scotia,12,By year,2024 (Jan to Jun),,,Number,21,Canada
+7755,12375,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Prince Edward Island,11,By year,2016,,,Number,7,Canada
+7756,12376,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Prince Edward Island,11,By year,2017,,,Number,8,Canada
+7757,12377,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Prince Edward Island,11,By year,2018,,,Number,11,Canada
+7758,12378,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Prince Edward Island,11,By year,2019,,,Number,10,Canada
+7759,12379,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Prince Edward Island,11,By year,2020,,,Number,12,Canada
+7760,12380,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Prince Edward Island,11,By year,2021,,,Number,33,Canada
+7761,12381,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Prince Edward Island,11,By year,2022,,,Number,56,Canada
+7762,12382,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Prince Edward Island,11,By year,2023,,,Number,70,Canada
+7763,12383,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Prince Edward Island,11,By year,2024 (Jan to Jun),,,Number,42,Canada
+7764,12427,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Yukon,60,By year,2016,,,Number,16,Canada
+7765,12428,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Yukon,60,By year,2017,,,Number,42,Canada
+7766,12429,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Yukon,60,By year,2018,,,Number,48,Canada
+7767,12430,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Yukon,60,By year,2019,,,Number,37,Canada
+7768,12431,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Yukon,60,By year,2020,,,Number,43,Canada
+7769,12432,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Yukon,60,By year,2021,,,Number,79,Canada
+7770,12433,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Yukon,60,By year,2022,,,Number,54,Canada
+7771,12434,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Yukon,60,By year,2023,,,Number,61,Canada
+7772,12435,Opioids,Emergency Department (ED) Visits,Overall numbers,Total opioid-related poisoning ED visits,Yukon,60,By year,2024 (Jan to Jun),,,Number,27,Canada
+7773,12522,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Alberta,48,By year,2016,,,Number,2576,Canada
+7774,12523,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Alberta,48,By year,2017,,,Number,3546,Canada
+7775,12524,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Alberta,48,By year,2018,,,Number,4108,Canada
+7776,12525,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Alberta,48,By year,2019,,,Number,2818,Canada
+7777,12526,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Alberta,48,By year,2020,,,Number,3653,Canada
+7778,12527,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Alberta,48,By year,2021,,,Number,6386,Canada
+7779,12528,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Alberta,48,By year,2022,,,Number,4648,Canada
+7780,12529,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Alberta,48,By year,2023,,,Number,6153,Canada
+7781,12530,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Alberta,48,By year,2024 (Jan to Jun),,,Number,1890,Canada
+7782,12574,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Saskatchewan,47,By year,2016,,,Number,55,Canada
+7783,12575,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Saskatchewan,47,By year,2017,,,Number,206,Canada
+7784,12576,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Saskatchewan,47,By year,2018,,,Number,337,Canada
+7785,12577,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Saskatchewan,47,By year,2019,,,Number,455,Canada
+7786,12578,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Saskatchewan,47,By year,2020,,,Number,876,Canada
+7787,12579,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Saskatchewan,47,By year,2021,,,Number,1224,Canada
+7788,12580,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Saskatchewan,47,By year,2022,,,Number,1128,Canada
+7789,12581,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Saskatchewan,47,By year,2023,,,Number,1494,Canada
+7790,12582,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Saskatchewan,47,By year,2024 (Jan to Jun),,,Number,732,Canada
+7791,12626,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Ontario,35,By year,2016,,,Number,2170,Canada
+7792,12627,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Ontario,35,By year,2017,,,Number,4516,Canada
+7793,12628,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Ontario,35,By year,2018,,,Number,6120,Canada
+7794,12629,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Ontario,35,By year,2019,,,Number,7717,Canada
+7795,12630,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Ontario,35,By year,2020,,,Number,9977,Canada
+7796,12631,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Ontario,35,By year,2021,,,Number,13771,Canada
+7797,12632,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Ontario,35,By year,2022,,,Number,9619,Canada
+7798,12633,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Ontario,35,By year,2023,,,Number,10716,Canada
+7799,12634,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Ontario,35,By year,2024 (Jan to Jun),,,Number,5435,Canada
+7800,12669,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Nova Scotia,12,By year,2016,,,Number,13,Canada
+7801,12670,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Nova Scotia,12,By year,2017,,,Number,12,Canada
+7802,12671,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Nova Scotia,12,By year,2018,,,Number,Suppr.,Canada
+7803,12672,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Nova Scotia,12,By year,2019,,,Number,6,Canada
+7804,12673,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Nova Scotia,12,By year,2020,,,Number,6,Canada
+7805,12674,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Nova Scotia,12,By year,2021,,,Number,7,Canada
+7806,12675,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Nova Scotia,12,By year,2022,,,Number,6,Canada
+7807,12676,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Nova Scotia,12,By year,2023,,,Number,7,Canada
+7808,12677,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Nova Scotia,12,By year,2024 (Jan to Jun),,,Number,5,Canada
+7809,12712,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Prince Edward Island,11,By year,2016,,,Number,Suppr.,Canada
+7810,12713,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Prince Edward Island,11,By year,2017,,,Number,Suppr.,Canada
+7811,12714,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Prince Edward Island,11,By year,2018,,,Number,8,Canada
+7812,12715,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Prince Edward Island,11,By year,2019,,,Number,6,Canada
+7813,12716,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Prince Edward Island,11,By year,2020,,,Number,7,Canada
+7814,12717,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Prince Edward Island,11,By year,2021,,,Number,14,Canada
+7815,12718,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Prince Edward Island,11,By year,2022,,,Number,33,Canada
+7816,12719,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Prince Edward Island,11,By year,2023,,,Number,46,Canada
+7817,12720,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Prince Edward Island,11,By year,2024 (Jan to Jun),,,Number,25,Canada
+7818,12764,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Yukon,60,By year,2016,,,Number,Suppr.,Canada
+7819,12765,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Yukon,60,By year,2017,,,Number,14,Canada
+7820,12766,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Yukon,60,By year,2018,,,Number,36,Canada
+7821,12767,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Yukon,60,By year,2019,,,Number,30,Canada
+7822,12768,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Yukon,60,By year,2020,,,Number,33,Canada
+7823,12769,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Yukon,60,By year,2021,,,Number,67,Canada
+7824,12770,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Yukon,60,By year,2022,,,Number,48,Canada
+7825,12771,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Yukon,60,By year,2023,,,Number,53,Canada
+7826,12772,Opioids,Emergency Department (ED) Visits,Overall numbers,Accidental opioid-related poisoning ED visits,Yukon,60,By year,2024 (Jan to Jun),,,Number,16,Canada
+8301,13970,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,British Columbia,59,By year,2017,,,Number,12817,Canada
+8302,13971,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,British Columbia,59,By year,2018,,,Number,13150,Canada
+8303,13972,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,British Columbia,59,By year,2019,,,Number,13171,Canada
+8304,13973,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,British Columbia,59,By year,2020,,,Number,16704,Canada
+8305,13974,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,British Columbia,59,By year,2021,,,Number,23724,Canada
+8306,13975,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,British Columbia,59,By year,2022,,,Number,20066,Canada
+8307,13976,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,British Columbia,59,By year,2023,,,Number,22054,Canada
+8308,13977,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,British Columbia,59,By year,2024 (Jan to Jun),,,Number,10926,Canada
+8309,14008,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Alberta,48,By year,2017,,,Number,2643,Canada
+8310,14009,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Alberta,48,By year,2018,,,Number,4206,Canada
+8311,14010,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Alberta,48,By year,2019,,,Number,3536,Canada
+8312,14011,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Alberta,48,By year,2020,,,Number,5188,Canada
+8313,14012,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Alberta,48,By year,2021,,,Number,8215,Canada
+8314,14013,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Alberta,48,By year,2022,,,Number,7078,Canada
+8315,14014,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Alberta,48,By year,2023,,,Number,10205,Canada
+8316,14015,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Alberta,48,By year,2024 (Jan to Jun),,,Number,3064,Canada
+8317,14046,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Saskatchewan,47,By year,2017,,,Number,,Canada
+8318,14047,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Saskatchewan,47,By year,2018,,,Number,196,Canada
+8319,14048,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Saskatchewan,47,By year,2019,,,Number,321,Canada
+8320,14049,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Saskatchewan,47,By year,2020,,,Number,640,Canada
+8321,14050,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Saskatchewan,47,By year,2021,,,Number,1015,Canada
+8322,14051,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Saskatchewan,47,By year,2022,,,Number,1196,Canada
+8323,14052,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Saskatchewan,47,By year,2023,,,Number,1458,Canada
+8324,14053,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Saskatchewan,47,By year,2024 (Jan to Jun),,,Number,670,Canada
+8325,14084,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Winnipeg, Manitoba",46,By year,2017,,,Number,1520,Canada
+8326,14085,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Winnipeg, Manitoba",46,By year,2018,,,Number,1095,Canada
+8327,14086,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Winnipeg, Manitoba",46,By year,2019,,,Number,1403,Canada
+8328,14087,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Winnipeg, Manitoba",46,By year,2020,,,Number,2684,Canada
+8329,14088,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Winnipeg, Manitoba",46,By year,2021,,,Number,2732,Canada
+8330,14089,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Winnipeg, Manitoba",46,By year,2022,,,Number,2058,Canada
+8331,14090,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Winnipeg, Manitoba",46,By year,2023,,,Number,3110,Canada
+8332,14091,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Winnipeg, Manitoba",46,By year,2024 (Jan to Jun),,,Number,1335,Canada
+8333,14122,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Northern and rural Manitoba,46,By year,2017,,,Number,32,Canada
+8334,14123,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Northern and rural Manitoba,46,By year,2018,,,Number,21,Canada
+8335,14124,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Northern and rural Manitoba,46,By year,2019,,,Number,21,Canada
+8336,14125,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Northern and rural Manitoba,46,By year,2020,,,Number,53,Canada
+8337,14126,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Northern and rural Manitoba,46,By year,2021,,,Number,63,Canada
+8338,14127,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Northern and rural Manitoba,46,By year,2022,,,Number,26,Canada
+8339,14128,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Northern and rural Manitoba,46,By year,2023,,,Number,8,Canada
+8340,14129,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Northern and rural Manitoba,46,By year,2024 (Jan to Jun),,,Number,,Canada
+8341,14160,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Ontario,35,By year,2017,,,Number,,Canada
+8342,14161,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Ontario,35,By year,2018,,,Number,1804,Canada
+8343,14162,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Ontario,35,By year,2019,,,Number,2629,Canada
+8344,14163,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Ontario,35,By year,2020,,,Number,3809,Canada
+8345,14164,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Ontario,35,By year,2021,,,Number,5008,Canada
+8346,14165,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Ontario,35,By year,2022,,,Number,4567,Canada
+8347,14166,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Ontario,35,By year,2023,,,Number,5169,Canada
+8348,14167,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Ontario,35,By year,2024 (Jan to Jun),,,Number,2552,Canada
+8349,14198,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,New Brunswick,13,By year,2017,,,Number,152,Canada
+8350,14199,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,New Brunswick,13,By year,2018,,,Number,110,Canada
+8351,14200,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,New Brunswick,13,By year,2019,,,Number,127,Canada
+8352,14201,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,New Brunswick,13,By year,2020,,,Number,125,Canada
+8353,14202,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,New Brunswick,13,By year,2021,,,Number,175,Canada
+8354,14203,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,New Brunswick,13,By year,2022,,,Number,275,Canada
+8355,14204,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,New Brunswick,13,By year,2023,,,Number,353,Canada
+8356,14205,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,New Brunswick,13,By year,2024 (Jan to Jun),,,Number,49,Canada
+8357,14236,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Nova Scotia,12,By year,2017,,,Number,,Canada
+8358,14237,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Nova Scotia,12,By year,2018,,,Number,111,Canada
+8359,14238,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Nova Scotia,12,By year,2019,,,Number,188,Canada
+8360,14239,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Nova Scotia,12,By year,2020,,,Number,182,Canada
+8361,14240,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Nova Scotia,12,By year,2021,,,Number,210,Canada
+8362,14241,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Nova Scotia,12,By year,2022,,,Number,249,Canada
+8363,14242,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Nova Scotia,12,By year,2023,,,Number,296,Canada
+8364,14243,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Nova Scotia,12,By year,2024 (Jan to Jun),,,Number,160,Canada
+8365,14274,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Newfoundland and Labrador,10,By year,2017,,,Number,46,Canada
+8366,14275,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Newfoundland and Labrador,10,By year,2018,,,Number,Suppr.,Canada
+8367,14276,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Newfoundland and Labrador,10,By year,2019,,,Number,,Canada
+8368,14277,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Newfoundland and Labrador,10,By year,2020,,,Number,,Canada
+8369,14278,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Newfoundland and Labrador,10,By year,2021,,,Number,,Canada
+8370,14279,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Newfoundland and Labrador,10,By year,2022,,,Number,,Canada
+8371,14280,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Newfoundland and Labrador,10,By year,2023,,,Number,,Canada
+8372,14281,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,Newfoundland and Labrador,10,By year,2024 (Jan to Jun),,,Number,,Canada
+8373,14312,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Whitehorse, Yukon",60,By year,2017,,,Number,59,Canada
+8374,14313,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Whitehorse, Yukon",60,By year,2018,,,Number,78,Canada
+8375,14314,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Whitehorse, Yukon",60,By year,2019,,,Number,48,Canada
+8376,14315,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Whitehorse, Yukon",60,By year,2020,,,Number,104,Canada
+8377,14316,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Whitehorse, Yukon",60,By year,2021,,,Number,133,Canada
+8378,14317,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Whitehorse, Yukon",60,By year,2022,,,Number,136,Canada
+8379,14318,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Whitehorse, Yukon",60,By year,2023,,,Number,118,Canada
+8380,14319,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Whitehorse, Yukon",60,By year,2024 (Jan to Jun),,,Number,36,Canada
+8381,14350,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Yellowknife, Northwest Territories",61,By year,2017,,,Number,Suppr.,Canada
+8382,14351,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Yellowknife, Northwest Territories",61,By year,2018,,,Number,Suppr.,Canada
+8383,14352,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Yellowknife, Northwest Territories",61,By year,2019,,,Number,0,Canada
+8384,14353,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Yellowknife, Northwest Territories",61,By year,2020,,,Number,6,Canada
+8385,14354,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Yellowknife, Northwest Territories",61,By year,2021,,,Number,Suppr.,Canada
+8386,14355,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Yellowknife, Northwest Territories",61,By year,2022,,,Number,Suppr.,Canada
+8387,14356,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Yellowknife, Northwest Territories",61,By year,2023,,,Number,Suppr.,Canada
+8388,14357,Opioids,Emergency Medical Services (EMS),Overall numbers,EMS responses to suspected opioid-related overdoses,"Yellowknife, Northwest Territories",61,By year,2024 (Jan to Jun),,,Number,Suppr.,Canada
